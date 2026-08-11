@@ -1,1 +1,2 @@
 print("hritik")
+print("ok")
